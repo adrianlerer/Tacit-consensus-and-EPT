@@ -1,0 +1,70 @@
+{
+  "corpus_name": "CT1_Argentina_Pilot",
+  "creation_date": "2025-11-17T00:20:26.324458",
+  "source": "Cámara de Diputados Argentina",
+  "url": "https://www2.hcdn.gob.ar/secparl/dgral_info_parlamentaria/dip/documentos/mensajes_presidenciales.html",
+  "speeches": {
+    "Menem": [
+      {
+        "year": 1994,
+        "type": "apertura",
+        "date": "1994-05-01"
+      },
+      {
+        "year": 1995,
+        "type": "apertura",
+        "date": "1995-05-01"
+      },
+      {
+        "year": 1996,
+        "type": "apertura",
+        "date": "1996-05-01"
+      }
+    ],
+    "Kirchner": [
+      {
+        "year": 2003,
+        "type": "asuncion",
+        "date": "2003-05-25"
+      },
+      {
+        "year": 2004,
+        "type": "apertura",
+        "date": "2004-03-01"
+      },
+      {
+        "year": 2005,
+        "type": "apertura",
+        "date": "2005-03-01"
+      }
+    ],
+    "Macri": [
+      {
+        "year": 2015,
+        "type": "asuncion",
+        "date": "2015-12-10"
+      },
+      {
+        "year": 2016,
+        "type": "apertura",
+        "date": "2016-03-01"
+      },
+      {
+        "year": 2017,
+        "type": "apertura",
+        "date": "2017-03-01"
+      }
+    ],
+    "Milei": [
+      {
+        "year": 2023,
+        "type": "asuncion",
+        "date": "2023-12-10"
+      }
+    ]
+  },
+  "total_speeches": 10,
+  "governments": 4,
+  "time_span": "1994-2023",
+  "purpose": "Test narrative stability across ideologically opposed governments"
+}

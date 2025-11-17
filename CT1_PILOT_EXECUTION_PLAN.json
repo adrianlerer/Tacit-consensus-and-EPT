@@ -1,0 +1,122 @@
+{
+  "test_name": "CT1 Argentina Pilot",
+  "hypothesis": "Narrative stability across ideologically opposed governments",
+  "governments": [
+    "Menem (liberal)",
+    "Kirchner (statist)",
+    "Macri (pro-market)",
+    "Milei (libertarian)"
+  ],
+  "expected_result": "Average correlation >0.55 on labor/social topics",
+  "timeline": "2-3 hours execution",
+  "deliverable": "2-page report with correlation matrix",
+  "target_speeches": {
+    "Menem": [
+      {
+        "title": "Mensaje presidencial apertura sesiones ordinarias",
+        "year": 1994,
+        "keywords": [
+          "sesiones",
+          "ordinarias",
+          "1994"
+        ]
+      },
+      {
+        "title": "Discurso reforma laboral",
+        "year": 1995,
+        "keywords": [
+          "laboral",
+          "trabajo",
+          "1995"
+        ]
+      },
+      {
+        "title": "Mensaje presidencial",
+        "year": 1996,
+        "keywords": [
+          "mensaje",
+          "presidencial",
+          "1996"
+        ]
+      }
+    ],
+    "Kirchner": [
+      {
+        "title": "Discurso asunción presidencial",
+        "year": 2003,
+        "keywords": [
+          "asunción",
+          "2003",
+          "mayo"
+        ]
+      },
+      {
+        "title": "Mensaje apertura sesiones",
+        "year": 2004,
+        "keywords": [
+          "sesiones",
+          "2004",
+          "marzo"
+        ]
+      },
+      {
+        "title": "Discurso justicia social",
+        "year": 2005,
+        "keywords": [
+          "trabajo",
+          "social",
+          "2005"
+        ]
+      }
+    ],
+    "Macri": [
+      {
+        "title": "Discurso asunción",
+        "year": 2015,
+        "keywords": [
+          "asunción",
+          "2015",
+          "diciembre"
+        ]
+      },
+      {
+        "title": "Mensaje apertura sesiones",
+        "year": 2017,
+        "keywords": [
+          "sesiones",
+          "2017",
+          "marzo"
+        ]
+      },
+      {
+        "title": "Presentación reforma laboral",
+        "year": 2017,
+        "keywords": [
+          "laboral",
+          "reforma",
+          "2017"
+        ]
+      }
+    ],
+    "Milei": [
+      {
+        "title": "Discurso asunción",
+        "year": 2023,
+        "keywords": [
+          "asunción",
+          "2023",
+          "diciembre"
+        ]
+      }
+    ]
+  },
+  "methodology": {
+    "step1": "Scrape 10 speeches from Casa Rosada archive",
+    "step2": "Preprocess: Spanish stopwords, lemmatization (spaCy)",
+    "step3": "Topic modeling: LDA n_topics=20",
+    "step4": "Identify core topics: labor, social protection, state role",
+    "step5": "Calculate inter-government correlations",
+    "step6": "Interpret: >0.55 = tacit consensus confirmed"
+  },
+  "fallback": "If scraping fails, request speeches from Adrian (6-8h delivery)"
+}

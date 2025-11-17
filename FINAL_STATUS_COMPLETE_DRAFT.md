@@ -67,7 +67,7 @@
 
 **TITLE PAGE (1 page)**
 - Title: "Beyond Stated Preferences: Tacit Consensus as Cultural Lock-in in Institutional Reform"
-- Author: Adrian Lerer, Yale Law School
+- Author: Ignacio Adrián Lerer, Independent Researcher
 - Keywords: Institutional rigidity, cultural lock-in, tacit consensus, Argentina, Latin America
 - JEL Codes: D72, K31, O43, P16, Z10
 

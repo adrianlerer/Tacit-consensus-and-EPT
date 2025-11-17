@@ -1,7 +1,7 @@
 # BEYOND STATED PREFERENCES: Tacit Consensus as Cultural Lock-in in Institutional Reform
 
 ## PAPER OUTLINE - SSRN Working Paper
-**Author:** Adrian Lerer  
+**Author:** Ignacio Adrián Lerer  
 **Target Length:** 28-32 pages (excluding references)  
 **Status:** Outline approved - Ready for drafting  
 **Date:** November 2025
@@ -998,8 +998,8 @@ Comparative analysis demonstrates:
 
 ## CONTACT INFORMATION
 
-**Adrian Lerer**  
-Email: adrianlerer@gmail.com  
+**Ignacio Adrián Lerer**  
+Email: adrian@lerer.com.ar  
 ORCID: [TBD]  
 GitHub: @adrianlerer  
 SSRN: [author page]

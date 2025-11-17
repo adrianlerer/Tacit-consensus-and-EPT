@@ -8,10 +8,11 @@
 Beyond Stated Preferences: Tacit Consensus as Cultural Lock-in in Institutional Reform
 
 **Author:**  
-Adrian Lerer  
-Yale Law School  
-127 Wall Street, New Haven, CT 06511  
-Email: adrian.lerer@yale.edu
+Ignacio Adrián Lerer  
+Independent Researcher  
+Buenos Aires, Argentina  
+Email: adrian@lerer.com.ar  
+ORCID: 0009-0007-6378-9749
 
 **Date:**  
 November 2025

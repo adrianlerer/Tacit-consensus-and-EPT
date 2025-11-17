@@ -2,9 +2,8 @@
 
 **Ignacio Adrián Lerer**  
 Independent Researcher  
-Buenos Aires, Argentina  
-adrian@lerer.com.ar  
-ORCID: 0009-0007-6378-9749
+  
+adrian@lerer.com.ar
 
 **Word Count:** ~25,000 words (33 pages main text + 8 pages appendices)
 
@@ -3012,7 +3011,7 @@ Helmke, Gretchen, and Steven Levitsky. 2004. "Informal Institutions and Comparat
 
 Kaufmann, Daniel, Aart Kraay, and Massimo Mastruzzi. 2010. "The Worldwide Governance Indicators: Methodology and Analytical Issues." *Hague Journal on the Rule of Law* 3 (2): 220-246.
 
-Lerer, Ignacio Adrián. 2024. "The Constitutional Lock-in Index: Measuring Institutional Rigidity Through Extended Phenotype Theory." *Constitutional Political Economy* 35 (3): 312-348.
+Lerer, Adrian. 2024. "The Constitutional Lock-in Index: Measuring Institutional Rigidity Through Extended Phenotype Theory." *Constitutional Political Economy* 35 (3): 312-348.
 
 Mahoney, James, and Kathleen Thelen, eds. 2010. *Explaining Institutional Change: Ambiguity, Agency, and Power*. Cambridge: Cambridge University Press.
 

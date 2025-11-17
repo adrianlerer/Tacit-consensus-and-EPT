@@ -2,7 +2,7 @@
 
 **Working Paper:** Beyond Stated Preferences: Tacit Consensus as Cultural Lock-in in Institutional Reform
 
-**Author:** Adrian Lerer  
+**Author:** Ignacio Adrián Lerer  
 **Institution:** Independent Researcher  
 **Status:** Work in Progress (Week 2 - Sections I-II Drafting)  
 **Target:** SSRN Working Paper (28-32 pages) → Latin American Research Review (35-40 pages)
@@ -223,7 +223,7 @@ This paper formalizes and operationalizes the concept of *consenso tácito* (tac
 
 ## Contact
 
-**Adrian Lerer**  
+**Ignacio Adrián Lerer**  
 Email: [contact via GitHub]  
 GitHub: [@adrianlerer](https://github.com/adrianlerer)  
 Repository: https://github.com/adrianlerer/Tacit-consensus-and-EPT
@@ -232,7 +232,7 @@ Repository: https://github.com/adrianlerer/Tacit-consensus-and-EPT
 
 ## License
 
-Copyright © 2025 Adrian Lerer. All rights reserved.
+Copyright © 2025 Ignacio Adrián Lerer. All rights reserved.
 
 This is an unpublished working paper. Please do not cite or circulate without permission.
 
